@@ -44,4 +44,6 @@ app.*.map.json
 /android/app/debugs
 /android/app/profile
 /android/app/release
-/android/app/src/main/
+
+**lib/config/constants_secret_key.dart
+**/assets/.env
