@@ -47,4 +47,4 @@ app.*.map.json
 
 **lib/config/constants_secret_key.dart
 **/assets/.env
-/android/gradle.properties
+android/gradle.properties
